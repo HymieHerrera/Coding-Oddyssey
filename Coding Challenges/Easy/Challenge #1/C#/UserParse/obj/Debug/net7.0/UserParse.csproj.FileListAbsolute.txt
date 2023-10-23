@@ -1,0 +1,14 @@
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\bin\Debug\net7.0\UserParse.exe
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\bin\Debug\net7.0\UserParse.deps.json
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\bin\Debug\net7.0\UserParse.runtimeconfig.json
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\bin\Debug\net7.0\UserParse.dll
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\bin\Debug\net7.0\UserParse.pdb
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\UserParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\UserParse.AssemblyInfoInputs.cache
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\UserParse.AssemblyInfo.cs
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\UserParse.csproj.CoreCompileInputs.cache
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\UserParse.dll
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\refint\UserParse.dll
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\UserParse.pdb
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\UserParse.genruntimeconfig.cache
+E:\Projects\Coding-Odyssey\Coding Challenges\Easy\Challenge #1\C#\UserParse\obj\Debug\net7.0\ref\UserParse.dll
