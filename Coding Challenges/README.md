@@ -33,7 +33,8 @@ _Note2: Friday and Saturday aren't as strictly abided by and could become rest d
 
 ## Challenges List
 
-- **r/dailyprogrammer Challenge 1**: Solved using Python/C#/C++/Powershell. [Link to Solution](#)
+- **r/dailyprogrammer Easy Challenge 1**: Solved using Python/C#/C++/Powershell. [Link to Solutions](./Easy/Challenge%20#1/)
+- **r/dailyprogrammer Intermediate Challenge 1**: [Link to Solutions](./Intermediate/Challenge%20#1/)
 
 
 ## Resources & References

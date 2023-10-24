@@ -1,0 +1,14 @@
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\bin\Debug\net7.0\StudentCheck.exe
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\bin\Debug\net7.0\StudentCheck.deps.json
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\bin\Debug\net7.0\StudentCheck.runtimeconfig.json
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\bin\Debug\net7.0\StudentCheck.dll
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\bin\Debug\net7.0\StudentCheck.pdb
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\StudentCheck.AssemblyInfoInputs.cache
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\StudentCheck.AssemblyInfo.cs
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\StudentCheck.csproj.CoreCompileInputs.cache
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\StudentCheck.dll
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\refint\StudentCheck.dll
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\StudentCheck.pdb
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\StudentCheck.genruntimeconfig.cache
+C:\Users\Mesqu\OneDrive\Documents\GitHub\Coding-Odyssey\Tim Corey\StudentCheckApp\StudentCheck\obj\Debug\net7.0\ref\StudentCheck.dll
